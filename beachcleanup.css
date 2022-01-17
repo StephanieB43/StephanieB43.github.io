@@ -1,0 +1,38 @@
+body {
+  background-color:#ecbf31;
+}
+
+.intro {
+  float: left;
+  width: 33.33%;
+}
+
+
+.image:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column2{
+  background-color: white;
+  border: 5px solid black;
+}
+
+.cleanup {
+  width: 150px;
+  height: 150px;
+  padding: 5px;
+  border: 2px solid black;
+}
+
+.reef {
+  width: 150px;
+  height:150px;
+  border: 2px solid black;
+}
+
+.containter2{
+  background-color: white;
+  border: 2px solid black;
+}

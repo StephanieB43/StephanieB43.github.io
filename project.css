@@ -1,0 +1,67 @@
+body {
+  background:#C3CDE6;
+}
+
+img flowers {
+  float: left;
+  margin-right: 10px;
+  }
+
+img palmtree {
+  float:center;
+  margin-left: 100px;
+  position: relative;
+  
+}
+
+h2 {
+  text-align: center;
+  font-family: fantasy;
+  font-size: 200%;
+}
+
+p 1 {
+  text-align: center;
+  font-family: monospace;
+}
+
+img.beach{
+  border: 10px solid #bebebe;
+  float: left;
+  margin-right: 10px;
+
+}
+img.chairs{
+  border: 10px solid  #bebebe;
+  float: right;
+  margin-left: 10px;
+}
+
+ol.events {
+  list-style-type: circle;
+}
+
+ol.Requirments{
+  list-style-type:decimal;
+}
+table.travel{
+  border: 10px solid #bebebe;
+  background-color: white;
+  padding: 20px;
+}
+td.title {
+  background-color: orange;
+}
+td.last{
+  background-color: orange;
+}
+td.price{
+  background-color: orange;
+}
+
+img.phone/ig/email {
+}
+
+last. {
+  word-spacing:600em;
+}
